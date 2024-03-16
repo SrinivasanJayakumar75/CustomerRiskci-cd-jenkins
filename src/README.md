@@ -1,7 +1,9 @@
 #Docker commands
 
 docker build -t customer:v1 .
+
 docker build -t srinivasan7500/srinivasan:latest . 
+
 docker push srinivasan7500/srinivasan:latest
 
 docker run -d -it --name modelv1 -p 8005:8005 srinivasan7500/srinivasan:latest bash
