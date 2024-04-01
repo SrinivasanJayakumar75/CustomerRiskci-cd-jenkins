@@ -6,4 +6,6 @@ Then configured the github repository and also the webhook setting.
 
 with the help of jenkins ran pytest and docker container in EC2 instance.
 
-With the help of jenkins performed the continuous integration, continuous training and continuous deployment pipeline for machine learning operations.
+With the help of jenkins performed the continuous integration, continuous training and continuous deployment pipeline.
+
+Thank you.
